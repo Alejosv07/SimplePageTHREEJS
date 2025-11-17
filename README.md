@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR REPO URL]
+    git clone https://github.com/Alejosv07/SimplePageTHREEJS
     cd SimplePageTHREEJS
     ```
 
