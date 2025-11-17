@@ -8,7 +8,7 @@ This is a modern, interactive web experience built using **Three.js** for 3D ren
 ## 🌐 Live Demo
 
 You can visit and interact with the live deployed version of this project here:
-`https://alejos07.github.io/SimplePageTHREEJS/`*
+`https://alejosv07.github.io/SimplePageTHREEJS/`*
 
 ---
 
