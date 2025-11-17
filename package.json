@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "ghpages": "^0.0.10",
+    "lil-gui": "^0.21.0",
+    "three": "^0.181.1",
+    "vite": "^7.2.2"
+  }
+}
